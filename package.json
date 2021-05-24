@@ -1,0 +1,42 @@
+{
+  "name": "react-hook-timeout",
+  "version": "1.0.0",
+  "description": "A component of React Hook based on setTimeout and clearTimeout that supports multi-timeout management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint ./src/index.js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmoyDreamer/react-hook-timeout.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "react hooks",
+    "setTimeout",
+    "clearTimeout",
+    "useTimeout",
+    "timeout"
+  ],
+  "author": "Allen Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmoyDreamer/react-hook-timeout/issues"
+  },
+  "homepage": "https://github.com/AmoyDreamer/react-hook-timeout#readme",
+  "engines": {
+    "node": ">=8.0.0",
+    "npm": ">=5.0.0"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "eslint-plugin-react": "^7.23.2",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "react": "^17.0.2"
+  }
+}
